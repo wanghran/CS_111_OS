@@ -1,0 +1,3 @@
+/Users/Rex/Documents/CS111/PJ3A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Rex/Documents/CS111/PJ3A/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Rex/Documents/CS111/PJ3A/cmake-build-debug/CMakeFiles/PJ3A.dir

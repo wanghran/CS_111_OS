@@ -1,0 +1,16 @@
+-------------
+Documentation
+-------------
+
+NAME: Haoran Wang
+ID: 505029637
+EMAIL: hwan252@ucla.edu
+
+---------
+Porject4B
+---------
+Source files: lab4b.c
+README
+Makefile
+
+A simple program interacts with BeagleBone and samples the temperature from the temperature sensor and log it to a file if --log option is enabled. 

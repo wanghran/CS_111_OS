@@ -1,0 +1,998 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"PO",
+				"POLLERR\t(lab1a.c)"
+			],
+			[
+				"POL",
+				"POLLHUP\t(lab1a.c)"
+			],
+			[
+				"re",
+				"revents"
+			],
+			[
+				"tem",
+				"tempt"
+			],
+			[
+				"str",
+				"strcmp"
+			],
+			[
+				"but",
+				"but_handler"
+			],
+			[
+				"buf",
+				"buffer"
+			],
+			[
+				"lo",
+				"logfd"
+			],
+			[
+				"wr",
+				"wr_flag"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"ST",
+				"STDOUT_FILENO\t(lab1a.c)"
+			],
+			[
+				"log",
+				"log_flag"
+			],
+			[
+				"bu",
+				"buffer"
+			],
+			[
+				"de",
+				"default\t(lab1a.c)"
+			],
+			[
+				"opt",
+				"optarg"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"temp",
+				"temperature"
+			],
+			[
+				"time",
+				"timebuf"
+			],
+			[
+				"tim",
+				"timebuf"
+			],
+			[
+				"ene",
+				"events\t(lab1a.c)"
+			],
+			[
+				"STD",
+				"STDIN_FILENO\t(lab1a.c)"
+			],
+			[
+				"for",
+				"format_time"
+			],
+			[
+				"mraa_gp",
+				"mraa_gpio_dir"
+			],
+			[
+				"list",
+				"lists\t(lab2_list.c)"
+			],
+			[
+				"ra",
+				"raw.gperf"
+			],
+			[
+				"su",
+				"sublist"
+			],
+			[
+				"mu",
+				"mutex"
+			],
+			[
+				"sub",
+				"subnum"
+			],
+			[
+				"m",
+				"mutex"
+			],
+			[
+				"av",
+				"avgMutx"
+			],
+			[
+				"tota",
+				"totalMutx"
+			],
+			[
+				"So",
+				"SortedList_delete\t(SortedList.c)"
+			],
+			[
+				"lis",
+				"list_id"
+			],
+			[
+				"Sort",
+				"SortedListElement_t"
+			],
+			[
+				"Sor",
+				"SortedList_length"
+			],
+			[
+				"t",
+				"thdnum"
+			],
+			[
+				"th",
+				"thdnum"
+			],
+			[
+				"tv",
+				"tv_nsec"
+			],
+			[
+				"tc",
+				"tv_sec"
+			],
+			[
+				"mut",
+				"mutex_time"
+			],
+			[
+				"name",
+				"person-name"
+			],
+			[
+				"e",
+				"employee"
+			],
+			[
+				"person",
+				"person-name"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"cus",
+				"cus-name"
+			],
+			[
+				"bra",
+				"bra-name"
+			],
+			[
+				"a",
+				"Account"
+			],
+			[
+				"S",
+				"SortedList_t"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"end",
+				"end_time"
+			],
+			[
+				"nu",
+				"NULL"
+			],
+			[
+				"thre",
+				"threads_opt"
+			],
+			[
+				"ma",
+				"malloc"
+			],
+			[
+				"it",
+				"itenum"
+			],
+			[
+				"i",
+				"itenum"
+			],
+			[
+				"op",
+				"opt_flag"
+			],
+			[
+				"get",
+				"getopt_long\t(lab2_add.c)"
+			],
+			[
+				"pr",
+				"prev"
+			],
+			[
+				"er",
+				"ernum"
+			],
+			[
+				"pthre",
+				"pthread_mutex_unlock"
+			],
+			[
+				"A",
+				"ArrType"
+			],
+			[
+				"fi",
+				"final"
+			],
+			[
+				"Const",
+				"ConstType"
+			],
+			[
+				"In",
+				"INSERT"
+			],
+			[
+				"IN",
+				"INTO"
+			],
+			[
+				"I",
+				"INSERT"
+			],
+			[
+				"l",
+				"last"
+			],
+			[
+				"n",
+				"Name"
+			],
+			[
+				"ab",
+				"abstract"
+			],
+			[
+				"Tre",
+				"TreeVisitor"
+			],
+			[
+				"s",
+				"strerror"
+			],
+			[
+				"from",
+				"from_child_pipe"
+			],
+			[
+				"close",
+				"close_flag"
+			],
+			[
+				"test",
+				"test3"
+			],
+			[
+				"te",
+				"test1"
+			],
+			[
+				"read",
+				"read_flag"
+			],
+			[
+				"err",
+				"errnum"
+			],
+			[
+				"cath",
+				"catch_flag"
+			],
+			[
+				"coun",
+				"counter_out"
+			],
+			[
+				"cou",
+				"counter_in"
+			],
+			[
+				"couter",
+				"counter_out"
+			],
+			[
+				"counter",
+				"counter_in"
+			],
+			[
+				"long",
+				"long_options"
+			],
+			[
+				"Find",
+				"FindWall"
+			],
+			[
+				"st",
+				"start1"
+			],
+			[
+				"wall",
+				"wallbfs"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"wa",
+				"walls"
+			],
+			[
+				"Fin",
+				"FindWall"
+			],
+			[
+				"ad",
+				"addFirst"
+			],
+			[
+				"si",
+				"sign2"
+			],
+			[
+				"pat",
+				"path0"
+			],
+			[
+				"path",
+				"path2"
+			],
+			[
+				"N",
+				"N-1"
+			],
+			[
+				"is",
+				"isWall"
+			],
+			[
+				"ne",
+				"nei"
+			],
+			[
+				"nei",
+				"nei"
+			],
+			[
+				"f",
+				"first"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"set",
+				"setParent"
+			],
+			[
+				"K",
+				"KVPair"
+			],
+			[
+				"pen",
+				"penup"
+			],
+			[
+				"p",
+				"pendown"
+			],
+			[
+				"cl",
+				"color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"pn",
+				"pendown"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"snowflake",
+				"snowflakeSide"
+			],
+			[
+				"clea",
+				"clean3"
+			],
+			[
+				"scan",
+				"scan4"
+			],
+			[
+				"sacn",
+				"scan3"
+			],
+			[
+				"sac",
+				"scan4"
+			],
+			[
+				"w",
+				"while"
+			],
+			[
+				"sw",
+				"swear"
+			],
+			[
+				"swC",
+				"swC1"
+			],
+			[
+				"sc",
+				"Scanner"
+			],
+			[
+				"ex",
+				"extract"
+			],
+			[
+				"sT",
+				"String"
+			],
+			[
+				"count",
+				"counter"
+			],
+			[
+				"char",
+				"charAt"
+			],
+			[
+				"DIGI",
+				"digitCount"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"po",
+				"polySpiralLength"
+			],
+			[
+				"in",
+				"interestRate"
+			],
+			[
+				"d",
+				"doublel"
+			],
+			[
+				"el",
+				"else"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lab4b.c",
+			"settings":
+			{
+				"buffer_size": 4474,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Rex/Documents/CS111/PJ1A/PJ1A/lab1a.c",
+			"settings":
+			{
+				"buffer_size": 11998,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Rex/Documents/CS111/PJ1B/PJ1B/lab1b-server.c",
+			"settings":
+			{
+				"buffer_size": 10295,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 269.0,
+		"last_filter": "remot",
+		"selected_items":
+		[
+			[
+				"remot",
+				"Git: Track Remote Branch"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git ",
+				"Git: Graph All"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"quic",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 420.0
+	},
+	"console":
+	{
+		"height": 80.0,
+		"history":
+		[
+			"-git remote add",
+			"git",
+			"ls",
+			"git",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Rex/Documents/CS111/PJ1B/PJ1B/lab1b-client.c",
+		"/Users/Rex/Documents/CS111/PJ1B/PJ1B/lab1b-server.c",
+		"/Users/Rex/Documents/CS111/PJ2B/lab2_list.c",
+		"/Users/Rex/Documents/CS111/PJ1A/PJ1A/lab1a.c",
+		"/Users/Rex/Documents/CS111/PJ4B/example.c",
+		"/Users/Rex/Documents/CS111/PJ2B/Makefile",
+		"/Users/Rex/Documents/CS111/PJ2B/README",
+		"/Users/Rex/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/3f6ef95f0309424cc201ac1d25629ee2/Message/MessageTemp/da78b3ab6bac9cbad294ea254593797c/File/profile.out",
+		"/Users/Rex/Documents/CS111/PJ2A/lab2_list.gp",
+		"/Users/Rex/Documents/CS111/PJ2A/lab2a-505029637/README",
+		"/Users/Rex/Documents/CS111/PJ2A/README",
+		"/Users/Rex/Documents/CS111/PJ2A/lab2_add.c",
+		"/Users/Rex/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/3f6ef95f0309424cc201ac1d25629ee2/Message/MessageTemp/da78b3ab6bac9cbad294ea254593797c/File/Makefile",
+		"/Users/Rex/Documents/CS111/PJ2A/Makefile",
+		"/Users/Rex/Documents/CS111/PJ2B/SortedList.h",
+		"/Users/Rex/Documents/CS111/PJ2B/SortedList.c",
+		"/Users/Rex/Documents/CS111/PJ2A/lab2_list.c",
+		"/Users/Rex/Documents/CS111/PJ2A/lab2a-505029637/Makefile",
+		"/Users/Rex/Documents/2.56.nb",
+		"/Users/Rex/Documents/CS111/PJ2A/SortedList.c",
+		"/Users/Rex/Documents/CS111/PJ2A/lab2_add.gp",
+		"/Users/Rex/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/Rex/Downloads/lab2_add.gp",
+		"/Users/Rex/Documents/CS111/PJ2A/untitled.sublime-project",
+		"/Users/Rex/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/README.md",
+		"/Users/Rex/Documents/CS132/HW2/src/main/java/Typecheck.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/syntaxtree/FormalParameterRest.java",
+		"/Users/Rex/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/Rex/Desktop/Typecheck.java",
+		"/Users/Rex/Documents/CS132/HW2/testcases/hw2/LinearSearch.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/visitor/DepthFirstVisitor.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/syntaxtree/FormalParameter.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/visitor/GJDepthFirst.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/syntaxtree/Identifier.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/syntaxtree/PrimaryExpression.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/syntaxtree/NodeChoice.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/visitor/GJNoArguDepthFirst.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/visitor/GJVoidVisitor.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/syntaxtree/IntegerLiteral.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/MiniJavaParser.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/visitor/GJVoidDepthFirst.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/syntaxtree/FormalParameterList.java",
+		"/Users/Rex/Documents/CS132/diss_note_10:27",
+		"/Users/Rex/Documents/CS132/HW2/grammars/syntaxtree/VarDeclaration.java",
+		"/Users/Rex/Downloads/gnuplot-5.2.0/README",
+		"/Users/Rex/Documents/CS132/HW2/grammars/syntaxtree/Type.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/visitor/GJNoArguVisitor.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/syntaxtree/IntegerType.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/syntaxtree/NodeToken.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/syntaxtree/NodeOptional.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/syntaxtree/MainClass.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/visitor/GJVisitor.java",
+		"/Users/Rex/Documents/CS132/HW2/grammars/syntaxtree/NodeList.java",
+		"/Users/Rex/Desktop/VisitorMain.java",
+		"/Users/Rex/Documents/CS111/Project_0/Project_0/haoranwa@lnxsrv09.seas.ucla.edu",
+		"/Users/Rex/Documents/CS111/PJ4A/Hello_World.c",
+		"/Users/Rex/Documents/CS132/HW2/src/main/java/VisitorMain.java",
+		"/Users/Rex/Documents/CS111/PJ4A/untitled.c",
+		"/Volumes/BEAGLEBONE/README.htm",
+		"/Users/Rex/Documents/CS132/HW2/type_check_example.java",
+		"/Users/Rex/Documents/CS132/HW2/src/parse/java/README.mkd",
+		"/Users/Rex/Documents/CS132/HW2/grammars/minijava.jj",
+		"/Users/Rex/Documents/CS132/HW2/README.mkd",
+		"/Users/Rex/Documents/CS132/HW2/lib/minijava-parser.jar",
+		"/Users/Rex/Documents/CS132/HW2/gradle.properties",
+		"/Users/Rex/Downloads/ucla-pls-cs132-be3178ed06eb/README.mkd",
+		"/Users/Rex/Downloads/ucla-pls-cs132-be3178ed06eb/testcases/test2.out",
+		"/Users/Rex/Downloads/ucla-pls-cs132-be3178ed06eb/testcases/test1",
+		"/Users/Rex/Downloads/ucla-pls-cs132-be3178ed06eb/settings.gradle",
+		"/Users/Rex/Downloads/P1B_check.sh",
+		"/Users/Rex/Documents/CS111/PJ1A/PJ1A/lab1a-505029637/Makefile",
+		"/Users/Rex/Documents/CS111/PJ1B/test.c",
+		"/Users/Rex/Downloads/mcrypt-2.6.8/INSTALL",
+		"/Users/Rex/Downloads/mcrypt-2.6.8/README",
+		"/Users/Rex/Documents/CS111/PJ1A/PJ1A/lab1a-505029637/README",
+		"/Users/Rex/Documents/CS111/Project_0/Project_0/HW1.c",
+		"/Users/Rex/Downloads/CS143-Project1A-master/605023965/query.php",
+		"/Users/Rex/Downloads/CS143-Project1A-master/violate.sql",
+		"/Users/Rex/Documents/CS143/vm-shared/violate.sql",
+		"/Users/Rex/Documents/CS143/vm-shared/create.sql",
+		"/Users/Rex/Documents/CS143/vm-shared/queries.sql",
+		"/Users/Rex/Downloads/CS143-Project1A-master-2/violate.sql",
+		"/Users/Rex/Downloads/CS143-Project1A-master-2/query.php",
+		"/Users/Rex/Downloads/CS143-Project1A-master-2/queries.sql",
+		"/Users/Rex/Downloads/CS143-Project1A-master-2/query1.php",
+		"/Users/Rex/Documents/CS143/vm-shared/load.sql",
+		"/Users/Rex/Downloads/CS143-Project1A-master/queries.sql",
+		"/Users/Rex/Downloads/CS143-Project1A-master/query1.php",
+		"/Users/Rex/Downloads/CS143-Project1A-master/query.php",
+		"/Users/Rex/Downloads/CS143-Project1A-master/load.sql",
+		"/Users/Rex/Downloads/CS143-Project1A-master/create.sql",
+		"/Users/Rex/Documents/CS132/HW2/src/main/java/Typecheck_Example.java",
+		"/Users/Rex/Desktop/test.c",
+		"/Users/Rex/Downloads/P1A_check.sh",
+		"/Users/Rex/Desktop/505029637/Parse.java",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/src/main/java/Parse.java",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/results/505029637/src/Parse.java",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/results/505029637/tests/test1.out",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/results/505029637/tests/test2.out",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/results/505029637/tests/test2.diff",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/results/505029637/failed",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/results/505029637/tests/test1.diff",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/src/test/java/Parse.java",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/testcases/test7f",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/testcases/test9f.out",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/testcases/test9f",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/results/505029637/compile_output",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/results/505029637/tests/test10f.out",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/results/505029637/tests/test10f.diff",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/results/505029637/tests/test9f.diff",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/results/505029637/tests/test7f.out",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/settings.gradle",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/testcases/test8",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/testcases/test6.out",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/testcases/test6",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/testcases/test5.out",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/testcases/test5",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/testcases/test4.out",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/testcases/test4",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/testcases/test3",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/testcases/test3.out",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/testcases/test1",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/testcases/test2",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/testcases/test10f",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/testcases/test7f.out",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/testcases/test2.out",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/testcases/test1.out",
+		"/Users/Rex/Documents/CS132/ucla-pls-cs132-be3178ed06eb/gradle/wrapper/gradle-wrapper.properties"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"log",
+			"stop"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lab4b.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2920,
+								2920
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1804.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Rex/Documents/CS111/PJ1A/PJ1A/lab1a.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8896,
+								8898
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2953.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/Rex/Documents/CS111/PJ1B/PJ1B/lab1b-server.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3602.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 576.0
+	},
+	"pinned_build_system": "",
+	"project": "PJ4B.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

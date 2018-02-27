@@ -1,0 +1,29 @@
+-------------
+Documentation
+-------------
+
+NAME: Haoran Wang
+ID: 505029637
+EMAIL: hwan252@ucla.edu
+
+---------
+Porject2B
+---------
+Source files: lab2_list.c SortedList.h SortedList.c 
+Graphs: lab2b_1.png lab2b_2.png lab2b_3.png lab2b_4.png lab2b_5.png
+Scripts: lab2b_list.gp
+Data files: lab2b_list.csv
+README
+Makefile
+
+Q2.3.1
+	The most of the cycle in the 1 and 2-thread list tests spent on the list operations since there were few threads in those cases and less time would be spent on context switch. This part is the most expensive part since all the threads were competing for a single list, meaning most of time only one thread was actually working. For the spin-lock, most of the cycles were wasting on spin and no actual work were done. For mutex, most of the time were wasting on doing context swtich. 
+
+Q2.3.2
+	The code that acquires the lock (the while statement)consumed most of the cycles. With large amount of threads, this becomes more expensive since only one thread can touch the critical section and others are wasting their cycles on spin. 
+
+Q2.3.3
+	The average waiting time increases dramatically since with higher number of threads, the threads are more likely to compete with each other. And for an arbitrary thread, the less likely for it to acquire the lock, meaning it will spend more time waiting in line. Completion time is just the wall time of the process and not the sum of the run times of all threads. Thus, the completion time per operation rises less dramatically with the number of contending threads because it does not include the time for all threads while they are waiting, which is where most of the time goes when the number of threads is high. The wait time per operation can go up faster or higher than the completion time per operation because the wait time includes the time for all threads and is a sum of the run and wait times of all threads.
+
+Q2.3.4
+	The higher the number of the list is, the higher the throughput will be. This is because with seperate sublists, the critical section is split into small pieces and each thread will have its change to get to that section while if there is only one list, every threads have to compete for one. The throughput with increasing sublists will depend on the total work load. If the work load is huge, then split it into more small pieces on a higher number of CPU setup will increase the throughput. However, if the work load is not huge or the number of CPU is limited, the increasing number of sublists will not affect a lot on the throughput. It does seem true that an N-way partitioned list is equivalent to a single list with 1/N threads.

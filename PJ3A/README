@@ -1,0 +1,19 @@
+-------------
+Documentation
+-------------
+
+NAME: Haoran Wang
+ID: 505029637
+EMAIL: hwan252@ucla.edu
+
+---------
+Project3A
+---------
+Source files: lab3a.c ext2_fs.h
+README
+Makefile
+
+---------
+Objective
+---------
+The code is able to read EXT2 file system and print the required information into a csv file called output.csv. 

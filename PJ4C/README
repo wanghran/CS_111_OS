@@ -1,0 +1,19 @@
+-------------
+Documentation
+-------------
+
+NAME: Haoran Wang
+ID: 505029637
+EMAIL: hwan252@ucla.edu
+
+---------
+Project4C
+---------
+Source files: lab4c_tcp lab4c_tls
+README
+Makefile
+
+---------
+Objective
+---------
+The code is able to receive command from the server and send back the temperature reports from the board.

@@ -1,0 +1,47 @@
+#Project 3A#
+##Part 1##
+Step 1 is not useful. trivial.csv is the final answer. 
+1. **Reproduce the same answer!** 
+2. **Do not print extra space and extra newline** 
+
+###File System EXT2###
+Write file into blocks 
+Bundle blocks into groups
+Byte0 boot record is useless. It is for OS bootup. 
+1. **Superblock is always correct.**
+2. Block group descriptor table: store group information. **The information there is correct.**
+3. Inode is the entry of file. File directory and file is the same. The inode stores metadata of directory or files. Inode points to the real data blocks. 
+4. Bitmap is a map to check if a specific inode or data blocks is used
+
+Inode has a pointer list including 15 entries. First 12 pointers point to real data blocks. 13th points to a pointer list that stores 15 pointers pointing to real data blocks. 14th points to an indirect list that contains 15 pointers point to 15 different pointer lists that point to real blocks. 15th adds another level of indirect list. 
+
+**Do not modify the file system structure, inlude the head file in the source code**
+####Group Summary####
+First step: read the superblock by offset 1024B.
+Second step: get the size of a specific block from superblock 
+For question 7: iterate through all the group, for each group, go to the group descriptor, call the pointers that point to the block bitmap and the inode bitmap. 
+Similar for 8 and 9
+Question 2 to 4: all the groups have the same number of blocks and inodes except the last group. Last group has smaller number of blocks and inodes. 
+
+####Free Block Entries####
+Use bit operation to check every bit. and with 11111111 and shift the number of bit position that we want to know. get the number of "1"
+
+####Free Inode Entries####
+1. scan the inode. Use inode structure. Print out all the info.
+
+####Directory Entries####
+read data entry using dir\_entry structure. The entry length of directory entry is dynamic. Need to use rec\_len to find the next entry. The name_len to find the end of the name string
+
+####Indirect Block Reference####
+Q4: relative location of the specific file in the inode. The location of this file minus the location of the first file that inode points to
+Q5: the block number of the indrection block
+Q6: the block number of its direct parent block
+
+####Read From Corrupted File System####
+open fd
+pread(fd, p, sizeof(A), offset); offset: know the block number
+eg: struct A{
+    
+}
+struct A a;
+void *p = (void *)&a;
